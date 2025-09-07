@@ -1,0 +1,45 @@
+Software Engineer - Machine Learning
+
+Company: TechCorp Inc.
+Location: San Francisco, CA
+
+About the Role:
+We are looking for a talented Software Engineer with expertise in Machine Learning to join our innovative engineering team. You will be responsible for developing and deploying ML models that power our core products and drive business growth.
+
+Requirements:
+- Bachelor's degree in Computer Science, Engineering, or related field
+- 3+ years of experience in software development
+- Strong proficiency in Python and Java
+- Experience with machine learning frameworks such as TensorFlow, PyTorch, or Scikit-learn
+- Knowledge of SQL databases and data manipulation
+- Experience with cloud platforms (AWS, Azure, or GCP)
+- Must have experience with Git and version control systems
+- Strong problem-solving skills and attention to detail
+- Excellent communication and teamwork abilities
+
+Preferred Qualifications:
+- Master's degree in Machine Learning, Data Science, or related field
+- Experience with Docker and Kubernetes for containerization
+- Knowledge of frontend technologies like React or Angular
+- Experience with big data tools (Spark, Hadoop)
+- Familiarity with MLOps practices and tools
+- Experience with A/B testing and experimentation
+
+Responsibilities:
+- Design, develop, and deploy machine learning models at scale
+- Collaborate with data scientists to productionize research models
+- Write clean, maintainable, and well-documented code
+- Participate in code reviews and maintain coding standards
+- Monitor model performance and implement improvements
+- Work with cross-functional teams to understand business requirements
+- Stay updated with latest ML technologies and best practices
+
+What We Offer:
+- Competitive salary and equity package
+- Comprehensive health, dental, and vision insurance
+- Flexible work arrangements and remote work options
+- Professional development opportunities and conference attendance
+- Collaborative and innovative work environment
+
+Equal Opportunity Employer
+TechCorp Inc. is committed to creating a diverse and inclusive workplace.

@@ -1,0 +1,61 @@
+Data Scientist - Analytics Team
+
+Company: DataCorp Analytics
+Location: New York, NY (Remote-friendly)
+
+Position Overview:
+Join our analytics team as a Data Scientist where you'll leverage advanced statistical methods and machine learning to drive data-driven decision making across the organization. You'll work with large datasets to uncover insights that directly impact business strategy.
+
+Essential Requirements:
+- Master's degree in Statistics, Mathematics, Data Science, or related quantitative field
+- 2-5 years of experience in data science or analytics roles
+- Expert-level proficiency in Python and R
+- Strong experience with machine learning algorithms and statistical modeling
+- Proficiency with SQL and database management
+- Experience with data visualization tools like Tableau, Power BI, or similar
+- Knowledge of big data technologies (Spark, Hadoop, etc.)
+- Strong mathematical and statistical background
+- Excellent analytical and problem-solving skills
+
+Nice to Have:
+- PhD in quantitative field
+- Experience with deep learning frameworks (TensorFlow, PyTorch)
+- Knowledge of cloud platforms (AWS, GCP, Azure)
+- Experience with A/B testing and experimental design
+- Familiarity with MLOps and model deployment practices
+- Background in business or domain expertise in our industry
+- Experience with time series analysis and forecasting
+
+Key Responsibilities:
+- Analyze complex datasets to identify trends, patterns, and insights
+- Develop and implement machine learning models for business applications
+- Create data visualizations and reports for stakeholders
+- Collaborate with engineering teams to deploy models in production
+- Design and analyze A/B tests and experiments
+- Present findings and recommendations to leadership teams
+- Stay current with latest developments in data science and analytics
+
+Required Skills:
+- Statistical analysis and hypothesis testing
+- Machine learning model development and evaluation
+- Data wrangling and preprocessing
+- Feature engineering and selection
+- Model interpretation and explainability
+- Data storytelling and communication
+
+Tools and Technologies:
+- Python (pandas, scikit-learn, numpy, matplotlib)
+- R (tidyverse, caret, ggplot2)
+- SQL and NoSQL databases
+- Jupyter notebooks and RStudio
+- Git version control
+- Docker for containerization
+- Cloud computing platforms
+
+What We Provide:
+- Competitive compensation package with performance bonuses
+- Comprehensive benefits including health, dental, and vision
+- Flexible work schedules and remote work options
+- Learning and development budget for courses and conferences
+- Access to latest tools and technologies
+- Collaborative and data-driven culture
