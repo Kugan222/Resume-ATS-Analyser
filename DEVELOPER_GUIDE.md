@@ -1,7 +1,3 @@
-# WARP.md
-
-This file provides guidance to WARP (warp.dev) when working with code in this repository.
-
 ## Project Overview
 
 The Resume ATS Analyzer is an intelligent Applicant Tracking System that uses Natural Language Processing and Machine Learning to analyze resumes against job descriptions. It provides compatibility scores, skill gap analysis, and detailed recommendations for candidates.
@@ -148,3 +144,4 @@ Use `test_system.py` to validate:
 - Expected output format demonstration
 
 The test script demonstrates all core capabilities without requiring actual PDF files, making it useful for development and CI/CD validation.
+
